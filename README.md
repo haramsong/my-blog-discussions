@@ -1,2 +1,2 @@
-# my-blog-discussion
+# my-blog-discussions
 My Blog Discussion
